@@ -97,7 +97,7 @@ const harsha = {
 </p>
 
 <p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
+  <img src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
 </p>
 
 ### ⭕ Activity Graph
