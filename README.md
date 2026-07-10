@@ -97,7 +97,7 @@ const harsha = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
 </p>
 
 ### ⭕ Activity Graph
