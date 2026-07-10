@@ -38,7 +38,7 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-### 🌟 [xtassy](https://github.com/Harsha-Sidd/xtassy)
+### Xtassy
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harsha-Sidd&repo=xtassy&theme=nord&border_color=ef4444&title_color=ef4444" alt="xtassy Pin" />
 </p>
@@ -52,8 +52,8 @@ const developer = {
 
 ---
 
-### 💻 [Pocket-IDE](https://github.com/Harsha-Sidd/Pocket-IDE)
-<p align="left">
+### Pocket IDE
+<p align="right">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harsha-Sidd&repo=Pocket-IDE&theme=nord&border_color=ef4444&title_color=ef4444" alt="Pocket-IDE Pin" />
 </p>
 
