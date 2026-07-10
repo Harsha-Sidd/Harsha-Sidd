@@ -50,8 +50,10 @@ const developer = {
 
 🔗 **Links**: [Code Repository](https://github.com/Harsha-Sidd/xtassy)
 
+--
+
 ### Pocket IDE
-<p align="right">
+<p align="left">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harsha-Sidd&repo=Pocket-IDE&theme=nord&border_color=ef4444&title_color=ef4444" alt="Pocket-IDE Pin" />
 </p>
 
