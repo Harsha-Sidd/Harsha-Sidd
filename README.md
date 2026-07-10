@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?weight=200&color=FF2E2E&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems%2C+IoT+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?weight=200&color=FF2E2E&center=true&vCenter=true&width=600&height=25&lines=Electronics+%26+Communication+Engineer;Embedded+Systems%2C+IoT+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
