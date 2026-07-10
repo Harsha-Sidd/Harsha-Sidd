@@ -25,7 +25,8 @@ const harsha = {
   role: "Engineering Student & Product Builder",
 
   mission:
-    "Turning ambitious ideas into real products through electronics, software, automation and design.",
+    "Turning ambitious ideas into real products through
+      electronics, software, automation and design.",
 
   interests: [
     "Electronics",
@@ -46,7 +47,8 @@ const harsha = {
   ],
 
   longTermGoal:
-    "Become an electronics engineer and innovator with products, patents and technology that solve real-world problems."
+    "Become an electronics engineer and innovator with products,
+      patents and technology that solve real-world problems."
 };
 ```
 
