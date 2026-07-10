@@ -6,13 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?weight=200&color=FF2E2E&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems%2C+IoT+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/Open%20To%20Work-ef4444?style=for-the-badge&logoColor=white" alt="Open To Work" />
 </p>
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarsha-Sidd&count_bg=%23ef4444&title_bg=%23555555&title=Views&edge_flat=true&style=flat-square" alt="Views" />
-  &nbsp;
   <img src="https://img.shields.io/github/followers/Harsha-Sidd?style=flat-square&color=ef4444&label=Followers" alt="Followers" />
 </p>
 
