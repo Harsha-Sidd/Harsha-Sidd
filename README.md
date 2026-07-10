@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarsha-Sidd&count_bg=%23ef4444&title_bg=%23555555&title=Views&edge_flat=true&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harsha-Sidd&color=ef4444&style=flat-square" alt="Views" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/Harsha-Sidd?style=flat-square&color=ef4444&label=Followers" alt="Followers" />
 </p>
 
