@@ -21,16 +21,32 @@
 ## 🙋‍♂️ Who I Am
 
 ```typescript
-const developer = {
-  title: "ECE Engineering Student",
-  stack: ["Open to Learn", "Fast Learner"],
-  launchedProjects: [
-    "https://github.com/Harsha-Sidd/xtassy",
-    "https://github.com/Harsha-Sidd/Pocket-IDE"
+const harsha = {
+  role: "Engineering Student & Product Builder",
+
+  mission:
+    "Turning ambitious ideas into real products through electronics, software, automation and design.",
+
+  interests: [
+    "Electronics",
+    "Product Engineering",
+    "Cybersecurity",
+    "Automation",
+    "Graphic Design",
+    "Branding"
   ],
-  certifications: [],
-  status: "Completing backlog exams",
-  openTo: ["Software Engineering Roles", "Collaboration", "Learning Opportunities"]
+
+  philosophy:
+    "If I can imagine it, I want to figure out how to build it.",
+
+  currentlyDoing: [
+    "Learning by building",
+    "Experimenting with electronics",
+    "Creating useful products"
+  ],
+
+  longTermGoal:
+    "Become an electronics engineer and innovator with products, patents and technology that solve real-world problems."
 };
 ```
 
@@ -50,7 +66,7 @@ const developer = {
 
 🔗 **Links**: [Code Repository](https://github.com/Harsha-Sidd/xtassy)
 
---
+---
 
 ### Pocket IDE
 <p align="left">
