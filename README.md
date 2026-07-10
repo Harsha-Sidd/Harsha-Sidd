@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=200&section=header&text=Harsha%20Sidd&fontSize=50&animation=twinkling&desc=ECE%20Engineering%20Student&descSize=20&descAlignY=65" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF2E2E&text=Harshavardhan&fontColor=ffffff&fontAlign=50&fontAlignY=34&fontSize=60&textBg=false&animation=blink&desc=Electronics%20and%20Communications&descSize=12&descAlignY=50&descAlign=64&reversal=true" alt="Header Banner" />
 </p>
 
 <p align="center">
