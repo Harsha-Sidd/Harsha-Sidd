@@ -92,9 +92,9 @@ const harsha = {
 
 ### ⭕ Contribution Streak & Trophies
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak" />
-  <img src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
+<p align="center", width="100%">
+  <img width="48%", src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak" />
+  <img width="48%", src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
 </p>
 
 ### ⭕ Activity Graph
