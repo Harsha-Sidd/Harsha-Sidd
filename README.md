@@ -116,11 +116,6 @@ const harsha = {
     </td>
   </tr>
 </table>
-
-<p align="center",valign="top" >
-  <img width="100%" src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
 <p align="center",valign="top" >
   <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=footer" alt="Footer Banner" />
 </p>
