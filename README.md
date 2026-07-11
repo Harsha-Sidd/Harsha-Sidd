@@ -89,18 +89,17 @@ const harsha = {
   <img width="48%", src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-Sidd&layout=compact&theme=nord&border_color=ef4444&title_color=ef4444" alt="Top Languages" />
 </p>
 
-### ⭕ Contribution Streak & Trophies
+## ⭕ Contribution Streak & Activity
 
 <p align="center", width="100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak" />
-  <br><br/>
-  <img src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
+  <img width="48%", src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak" />
+  <img width="48%", src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Sidd&bg_color=2e3440&color=ef4444&line=ef4444&point=ef4444&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
-### ⭕ Activity Graph
+## ⭕ Trophies
 
 <p align="center", width="100%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Sidd&bg_color=2e3440&color=ef4444&line=ef4444&point=ef4444&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
 </p>
 
 ---
