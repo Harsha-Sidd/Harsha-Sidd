@@ -99,7 +99,7 @@ const harsha = {
 
 ### ⭕ Activity Graph
 
-<p align="center">
+<p align="center", width="100%">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Sidd&bg_color=2e3440&color=ef4444&line=ef4444&point=ef4444&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
