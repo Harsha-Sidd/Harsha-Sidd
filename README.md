@@ -11,9 +11,21 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Harsha-Sidd&color=ef4444&style=flat-square" alt="Views" />
+  <img width="10%" src="https://komarev.com/ghpvc/?username=Harsha-Sidd&color=ef4444&style=flat-square" alt="Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Harsha-Sidd?style=flat-square&color=ef4444&label=Followers" alt="Followers" />
+  <img width="8%" src="https://img.shields.io/github/followers/Harsha-Sidd?style=flat-square&color=ef4444&label=Followers" alt="Followers" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/harsha-sidd" target="_blank">
+    <img align="right" width="8%", src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/harsha.siddd" target="_blank">
+    <img align="right" width="10%", src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<p align="right", width="50%" >
+  
 </p>
 
 ---
@@ -84,53 +96,39 @@ const harsha = {
 
 ## ⭕ GitHub Analytics
 
-<table border="0" align="center" width="100%" height="100%">
+<table border="0" align="center" width="100%">
   <tr>
     <!-- Left Card: Stats -->
-    <td valign="center" align="center" width="50%">
+    <td valign="center" align="center">
       <img width="100%" src="https://github-stats-extended.vercel.app/api?username=Harsha-Sidd&show_icons=true&theme=nord&border_color=ef4444&title_color=ef4444" alt="GitHub Stats" />
     </td>
     <!-- Right Card: Top Languages (Height attribute removed so it won't cut off) -->
-    <td valign="center" align="center" width="100%">
+    <td valign="center" align="center" width="49%">
       <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-Sidd&layout=compact&theme=nord&border_color=ef4444&title_color=ef4444" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<table border="0" align="center" valign="center" width="100%"
+<table border="0" align="center" valign="center">
     <!-- Left Card: Streak -->
-    <td valign="center" align="center" width="50%">
+    <td valign="center" align="center" width="49%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="Streak Stats" />
     </td>
     <!-- Right Card: Activity Graph -->
-    <td valign="center" align="center" width="50%">
+    <td valign="center" align="center" width="49%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Sidd&bg_color=2e3440&color=ef4444&line=ef4444&point=ef4444&area=true&hide_border=true" alt="Activity Graph" />
     </td>
   </tr>
 </table>
 
-<table border="0" align="center" width="100%">
+<table width="100%" border="0" align="center">
   <tr>
     <!-- Left Card: Streak -->
-    <td valign="center" align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Sidd&theme=nord&hide_border=true" width="100%" alt="Trophies" />
+    <td valign="center" align="center" width="100%">
+      <img width="100%" src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Trophies" />
     </td>
   </tr>
 </table>
-
----
-
-### ⭕ Connect With Me
-
-<p align="center", width="50%" >
-  <a href="https://instagram.com/harsha.siddd" target="_blank">
-    <img width="15%", src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/harsha-sidd" target="_blank">
-    <img width="10%", src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <p align="center",valign="top" >
   <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=footer" alt="Footer Banner" />
