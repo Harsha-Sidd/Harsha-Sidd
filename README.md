@@ -86,7 +86,6 @@ const harsha = {
 
 <p align="center", width="100%">
   <img width="48%", src="https://github-stats-extended.vercel.app/api?username=Harsha-Sidd&show_icons=true&theme=nord&border_color=ef4444&title_color=ef4444" alt="Harsha's GitHub Stats" />
-  <br/><br/>
   <img width="48%", src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-Sidd&layout=compact&theme=nord&border_color=ef4444&title_color=ef4444" alt="Top Languages" />
 </p>
 
