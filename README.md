@@ -86,7 +86,7 @@ const harsha = {
 | **Development** | Mobile IDE & Developer Tools |
 | **Stack** | Fast Learning / Exploration |
 
-🔗 **Links**: [Code Repository](https://github.com/Harsha-Sidd/Pocket-IDE)
+🔗 **Links**: [Code Repository](https://github.com/Harsha-Sidd/pocket-ide)
 
 ---
 
