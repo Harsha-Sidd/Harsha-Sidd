@@ -68,8 +68,6 @@ const harsha = {
 
 🔗 **Links**: [Code Repository](https://github.com/Harsha-Sidd/xtassy)
 
----
-
 ### Pocket IDE
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harsha-Sidd&repo=Pocket-IDE&theme=nord&border_color=ef4444&title_color=ef4444" alt="Pocket-IDE Pin" />
@@ -94,11 +92,8 @@ const harsha = {
 
 ### ⭕ Contribution Streak & Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
 </p>
 
