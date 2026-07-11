@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center", width="100%", >
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF2E2E&text=Harshavardhan&reversal=false&fontSize=60&fontColor=ffffff&fontAlignY=37&animation=blink" alt="Header Banner" />
 </p>
 
@@ -116,6 +116,6 @@ const harsha = {
   </a>
 </p>
 
-<p align="center">
+<p align="center", width="100%", >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=footer" alt="Footer Banner" />
 </p>
