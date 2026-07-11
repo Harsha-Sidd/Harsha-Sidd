@@ -1,16 +1,16 @@
-<p align="center", width="100%" >
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF2E2E&text=Harshavardhan&reversal=false&fontSize=60&fontColor=ffffff&fontAlignY=37&animation=blink" alt="Header Banner" />
+<p align="center" >
+  <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF2E2E&text=Harshavardhan&reversal=false&fontSize=60&fontColor=ffffff&fontAlignY=37&animation=blink" alt="Header Banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?weight=200&color=FF2E2E&center=true&vCenter=true&width=600&height=25&lines=Electronics+%26+Communication+Engineer;Embedded+Systems%2C+IoT+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
+<p align="center", valign="top" >
+  <img width="75%", src="https://readme-typing-svg.demolab.com/?weight=300&color=FF2E2E&center=true&vCenter=true&width=600&height=25&lines=Electronics+%26+Communication+Engineer;Embedded+Systems%2C+IoT+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/Open%20To%20Work-ef4444?style=for-the-badge&logoColor=white" alt="Open To Work" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Harsha-Sidd&color=ef4444&style=flat-square" alt="Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/Harsha-Sidd?style=flat-square&color=ef4444&label=Followers" alt="Followers" />
@@ -84,38 +84,38 @@ const harsha = {
 
 ### ⭕ GitHub Stats
 
-<p align="center", width="100%">
-  <img width="48%", src="https://github-stats-extended.vercel.app/api?username=Harsha-Sidd&show_icons=true&theme=nord&border_color=ef4444&title_color=ef4444" alt="Harsha's GitHub Stats" />
-  <img width="48%", src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-Sidd&layout=compact&theme=nord&border_color=ef4444&title_color=ef4444" alt="Top Languages" />
+<p align="left", width="100%">
+  <img width="47%", src="https://github-stats-extended.vercel.app/api?username=Harsha-Sidd&show_icons=true&theme=nord&border_color=ef4444&title_color=ef4444" alt="Harsha's GitHub Stats" />
+  <img width="43%", src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-Sidd&layout=compact&theme=nord&border_color=ef4444&title_color=ef4444" alt="Top Languages" />
 </p>
 
 ### ⭕ Contribution Streak & Activity
 
-<p align="center", width="100%">
-  <img width="48%", src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak" />
+<p align="left", width="100%">
+  <img width="42%", src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak" />
   <img width="48%", src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Sidd&bg_color=2e3440&color=ef4444&line=ef4444&point=ef4444&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ### ⭕ Trophies
 
-<p align="center", width="100%">
+<p align="left", width="100%">
   <img src="https://trophy.benkou.dev/?username=Harsha-Sidd&theme=flat&no-bg=true&no-frame=true" alt="Github Trophies" />
 </p>
 
 ---
 
-## ⭕ Connect With Me
+### ⭕ Connect With Me
 
-<p align="center">
+<p align="center", width="50%" >
   <a href="https://instagram.com/harsha.siddd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img width="15%", src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/harsha-sidd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="10%", src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<p align="center", width="100%", >
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=footer" alt="Footer Banner" />
+<p align="center",valign="top" >
+  <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=footer" alt="Footer Banner" />
 </p>
