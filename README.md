@@ -116,6 +116,7 @@ const harsha = {
     </td>
   </tr>
 </table>
-<p align="center",valign="top" >
-  <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=footer" alt="Footer Banner" />
+
+<p align="center" valign="top" >
+  <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ef4444&text=Let's%20Innovate%20and%20Build.&section=footer&reversal=false&fontAlign=50&fontAlignY=75&fontSize=25&fontColor=ffffff" alt="Footer Banner" />
 </p>
