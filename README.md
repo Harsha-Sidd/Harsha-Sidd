@@ -1,5 +1,5 @@
 <p align="center" >
-  <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF2E2E&text=Harshavardhan&reversal=false&fontSize=60&fontColor=ffffff&fontAlignY=37&animation=blink" alt="Header Banner" />
+  <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF2E2E&text=Harsha&reversal=false&fontSize=60&fontColor=ffffff&fontAlignY=37&animation=blink" alt="Header Banner" />
 </p>
 
 <p align="center", valign="top" >
