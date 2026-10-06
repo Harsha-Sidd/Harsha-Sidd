@@ -90,33 +90,6 @@ const harsha = {
 
 ---
 
-## ⭕ GitHub Analytics
-
-<table border="0" align="center" width="100%">
-  <tr>
-    <!-- Left Card: Stats -->
-    <td valign="center" align="center">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=Harsha-Sidd&show_icons=true&theme=nord&border_color=ef4444&title_color=ef4444" alt="GitHub Stats" />
-    </td>
-    <!-- Right Card: Top Languages (Height attribute removed so it won't cut off) -->
-    <td valign="center" align="center" width="49%">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-Sidd&layout=compact&theme=nord&border_color=ef4444&title_color=ef4444" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<table border="0" align="center" valign="center">
-    <!-- Left Card: Streak -->
-    <td valign="center" align="center" width="49%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-Sidd&theme=nord&border=ef4444&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="Streak Stats" />
-    </td>
-    <!-- Right Card: Activity Graph -->
-    <td valign="center" align="center" width="49%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Sidd&bg_color=2e3440&color=ef4444&line=ef4444&point=ef4444&area=true&hide_border=true" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
-
 <p align="center" valign="top" >
   <img width="100%", src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ef4444&text=Let's%20Innovate%20and%20Build.&section=footer&reversal=false&fontAlign=50&fontAlignY=75&fontSize=25&fontColor=ffffff" alt="Footer Banner" />
 </p>
